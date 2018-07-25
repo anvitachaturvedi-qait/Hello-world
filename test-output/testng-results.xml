@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17121" started-at="2018-07-24T16:52:19Z" finished-at="2018-07-24T16:52:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17121" started-at="2018-07-24T16:52:19Z" finished-at="2018-07-24T16:52:37Z">
+      <class name="TatocAutomation2.TatocAutomation2.AdvancedCourse">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TatocAutomation2.TatocAutomation2.AdvancedCourse@457e2f02]" name="launch" is-config="true" duration-ms="9973" started-at="2018-07-24T22:22:19Z" finished-at="2018-07-24T22:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="advanced()[pri:0, instance:TatocAutomation2.TatocAutomation2.AdvancedCourse@457e2f02]" name="advanced" duration-ms="7072" started-at="2018-07-24T22:22:29Z" finished-at="2018-07-24T22:22:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- advanced -->
+      </class> <!-- TatocAutomation2.TatocAutomation2.AdvancedCourse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
